@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 		ex = kg-50;
 		mul = ex*4.00;
 		
-		cout <<"O valor da multa é: "<< mul <<" devido ao excesso de peso, que foi: "<< ex;
+		cout <<"O valor da multa é:R$"<< mul <<" devido ao excesso de peso, que foi: "<< ex<<"Kg";
 	}
 
 	else {
